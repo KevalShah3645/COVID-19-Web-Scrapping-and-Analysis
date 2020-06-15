@@ -1,4 +1,4 @@
-# COVID-19-Web-Scrapping-and-Analysis
+### COVID 19 Web-Scrapping and Analysis
 
 The objective of this project was to apply web scrapping and analyze COVID-19 data from worldwide using python packages. Visualization charts are also prepared using matplotlib and pandas following with the analysis of the repective findings.
 
